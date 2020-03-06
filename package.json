@@ -1,0 +1,30 @@
+{
+  "name": "shochikubai",
+  "version": "1.0.0",
+  "description": "main website from aikido club",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Towam/shochikubai.git"
+  },
+  "keywords": [
+    "Aikido",
+    "Nevele",
+    "Sint-Martens-Latem",
+    "Meditatie"
+  ],
+  "author": "Tom Heyman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Towam/shochikubai/issues"
+  },
+  "homepage": "https://github.com/Towam/shochikubai",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
